@@ -1,1 +1,1 @@
-# Stock-News-Sentiment-Analysis
+# Stock-Sentiment-Analysis
